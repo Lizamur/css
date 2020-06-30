@@ -9,14 +9,13 @@ Junior recruiter
 ## Цель
 
 
-## Work Experience
+## Опыт работы
 
 
 ## Technical Skills
-- HTML
-- CSS
-- Python - basic syntax
-- SQL
+Базовые знания Python, HTML, СSS
+
+
 
 ## Education
 
